@@ -7,6 +7,6 @@ public class Salle {
 	
 	private int numero;
 	private boolean isDisponible;
-	private List<Date> dateReserver;
+	private List<Reservation> dateReserver;
 	
 }
